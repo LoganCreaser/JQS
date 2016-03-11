@@ -1,0 +1,1 @@
+$("vjs-playlist-thumbnail").empty();
